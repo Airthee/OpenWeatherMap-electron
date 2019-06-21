@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Airthee/OpenWeatherMap-electron.svg?branch=master)](https://travis-ci.org/Airthee/OpenWeatherMap-electron)
+
 # openweathermap-electron
 
 > An electron-vue project
