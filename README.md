@@ -1,3 +1,4 @@
+![GitHub](https://img.shields.io/github/license/Airthee/OpenWeatherMap-electron.svg?style=flat-square)
 [![Build Status](https://travis-ci.org/Airthee/OpenWeatherMap-electron.svg?branch=master)](https://travis-ci.org/Airthee/OpenWeatherMap-electron)
 
 # OpenWeatherMap-electron
