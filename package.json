@@ -58,7 +58,7 @@
   "dependencies": {
     "@hapi/boom": "^7.4.2",
     "@hapi/cryptiles": "^4.2.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "cryptiles": "^4.1.2",
     "hoek": "^4.2.1",
     "js-yaml": "^3.13.1",
